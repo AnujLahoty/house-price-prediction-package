@@ -1,0 +1,4 @@
+https://pypi.org/project/house-price-prediction-regression-model/0.0.1/
+
+To install We need to type
+pip install house-price-prediction-regression-model==0.0.1
